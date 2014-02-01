@@ -1,0 +1,15 @@
+<dragItems>
+    <item value="1" x="-164" y="205" active="1"></item>
+    <item value="2" x="318" y="61" active="1"></item>
+    <item value="3" x="-10" y="50" active="1"></item>
+    <item value="4" x="-340" y="-35" active="1"></item>
+    <item value="5" x="-108" y="-167" active="1"></item>
+    <item value="6" x="167" y="200" active="1"></item>
+    <item value="7" x="-200" y="36" active="1"></item>
+    <item value="8" x="-36" y="-50" active="1"></item>
+    <item value="9" x="90" y="90" active="1"></item>
+    <configItems>
+        <currentPassword>123456789</currentPassword>
+        <configPassword>123654798</configPassword>
+    </configItems>
+</dragItems>

@@ -1,0 +1,29 @@
+*{
+    -webkit-user-select: none;
+}
+html{
+    background: black;
+}
+.hidden {
+    display: none;
+}
+.visible{
+    display: block;
+}
+.dragItem{
+    position:absolute;
+    border:2px solid white;
+    padding: 15px 20px !important;
+    border-radius: 25px;
+    color: white;
+    cursor: pointer;
+}
+#dragPad{
+    border: 2px solid yellow;
+    padding: 15px;
+    border-radius: 25px;
+    margin: 25% auto;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
